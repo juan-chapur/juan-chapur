@@ -4,7 +4,7 @@ __Let me introduce myself! I'm a student for a degree in systems 💻 in Univers
 
 - 💼 I'm currently working on my Portfolio.
 
-- I'm mostly focused on Javascript and in particular Frontend Development ⌨️. 
+- I'm mostly focused on Frontend Development ⌨️. 
 
 ### Where to find me
 
