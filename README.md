@@ -8,5 +8,4 @@ __Let me introduce myself! I'm a student for a degree in systems 💻 in Univers
 
 ### Where to find me
 
-- 📧 Mail: juanchapur99@gmail.com
 - 👔 Linkedin: [Juan Chapur](https://www.linkedin.com/in/juan-chapur-1b57601a3/)
