@@ -4,9 +4,10 @@ __Let me introduce myself! I'm a student for a degree in systems 💻 in Univers
 
 __I am currently researching and developing in:__
 
-- Languages: JavaScript, Python.
-- Frontend: HTML, CSS, , ReactJS.
-- Backend: NodeJS, Django, PostgreSQL, MySQL, MongoDB, Firebase, Supabase.
+- Languages: JavaScript, TypeScript, Python.
+- Frontend: HTML, CSS, Bootstrap, ReactJS.
+- Backend: NodeJS, Express, Django, FastAPI, Django Rest Framework.
+- Databases: PostgreSQL, MySQL, MongoDB, Firebase, Supabase, SQLite.
 
 ### Where to find me
 
