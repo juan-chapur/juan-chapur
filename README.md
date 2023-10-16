@@ -7,7 +7,7 @@ __I am currently researching and developing in:__
 - Languages: JavaScript, TypeScript, Python.
 - Frontend: HTML, CSS, Bootstrap, ReactJS.
 - Backend: NodeJS, Express, Django, FastAPI, Django Rest Framework.
-- Databases: PostgreSQL, MySQL, MongoDB, Firebase, Supabase, SQLite.
+- Databases: PostgreSQL, MySQL, MongoDB, Oracle, Firebase, Supabase, SQLite.
 
 ### Where to find me
 
